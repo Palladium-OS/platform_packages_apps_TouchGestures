@@ -34,8 +34,8 @@ import androidx.preference.Preference;
 import androidx.preference.PreferenceFragment;
 import androidx.preference.PreferenceManager;
 
-import com.android.internal.awaken.hardware.LineageHardwareManager;
-import com.android.internal.awaken.hardware.TouchscreenGesture;
+import com.android.internal.palladium.hardware.LineageHardwareManager;
+import com.android.internal.palladium.hardware.TouchscreenGesture;
 
 import com.android.touch.gestures.R;
 import com.android.touch.gestures.utils.ResourceUtils;
